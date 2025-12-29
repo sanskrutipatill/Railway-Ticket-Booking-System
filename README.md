@@ -11,22 +11,35 @@ This project demonstrates core programming concepts such as file handling, modul
 **Features**
 
 User registration and login system
+
 Train schedule management
+
 Ticket booking with unique ticket IDs
+
 Ticket cancellation functionality
+
 Booking history display
+
 File handling for persistent data storage
+
 Menu-driven console interface
+
 Optional admin panel for train management
 
 **Technologies Used**
 
 Programming Language: C++
+
 Concepts Used:
+
 File Handling
+
 Functions and Modular Programming
+
 Conditional Statements and Loops
+
 Structures / Classes (if used)
+
 ![cpp3](https://github.com/user-attachments/assets/20a17fb0-b8d8-4807-a8d8-fc8d936cc599)
 ![cpp1](https://github.com/user-attachments/assets/8c193635-1b05-4165-88c1-07dfa00f3be8)
 ![cpp2](https://github.com/user-attachments/assets/d35bdd4d-1616-4cc1-a613-d88d1f2f0b23)
